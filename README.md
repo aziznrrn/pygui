@@ -23,7 +23,7 @@ And I don't know what this application is for.
     ```
 5. Run the code
     ```bash
-        python3 main.py
+        python main.py
     ```
 
 ## Author
